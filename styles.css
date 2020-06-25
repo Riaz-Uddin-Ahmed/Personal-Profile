@@ -1,0 +1,57 @@
+.row-content{
+padding:50px 10px 50px 10px;
+}
+.fa-circle {
+	color:blue;	
+}
+.fa-paper-plane, .fa-phone, .fa-map-signs, .fa-globe{
+color:white;
+}
+.nav-item{
+	color:red;
+	font-size:120%;
+  padding-left:50px;
+  padding-right:20px;
+text-align: left;                  
+}
+ .jumbotron {
+    margin: 0px auto;
+    padding: 70px 30px;
+    background:	#191970;
+    color: #ffffff;
+height:100vh;
+text-align:center;	
+padding-top:25%;
+}
+
+.side{
+	font-size:150%;
+	text-decoration:none;
+	padding-left:20%;
+}
+body
+{
+		font-family:Berlin Sans FB;
+		background:floralwhite;
+}
+.bol{
+	font-size:150%;
+	text-decoration:none;
+}
+.about{
+	text-align:initial;
+	padding-left:10px;
+}
+.card-image{
+	opacity:0.5;
+	height:300px;
+}	
+.card-image:hover{
+	transition-duration:1.5s;
+	opacity:1;
+	
+}
+.fa-navicon{
+	color:blue;
+}
+
